@@ -1,0 +1,18 @@
+body{font-family:"Georgia";
+background-color: hsla(120, 60%, 70%, 0.3)}
+
+h1{font-family: "Georgia";
+  background-color: Orange
+   ;
+  padding: 20px 10px;
+  max-width: 1000px;
+  margin: auto;}
+
+h2{background-color: Orange;
+justify-content: space-around;font-size: 120%}
+  
+h4{background-color: Orange;font-size: 120%
+    }
+em{font-weight: bold}
+
+m1{font-weight: bold}
